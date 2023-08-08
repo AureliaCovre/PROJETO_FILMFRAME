@@ -1,7 +1,7 @@
-# PROJETO LOCADORA DISCORAMA - EM CONSTRUÇÃO
+# EM CONSTRUÇÃO: PROJETO LOCADORA DISCORAMA (Empresa Fictícia)
+
+## Objetivo: 
+Ler e tratar os dados para gerar análises relevantes e indicadores de negócio que possam contribuir para as tomadas de decisões e contribuir para melhoria de resultados
 
 ## Dados
-14 Cópias das principais tabelas do ERP da Discorama disponível em arquivo Discorama.zip
-
-## Objetivo
-Gerar um relatório com indicadores de performance para responder às demandas da Discorama. Para isso deve-se criar indicadores de negócio e sugerir como a empresa pode agir em cima deles para melhorar seus resultados.
+14 Cópias das principais tabelas do ERP da Discorama
