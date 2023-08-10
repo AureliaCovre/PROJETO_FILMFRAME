@@ -9,4 +9,4 @@ A principal meta da empresa é alcançar uma visão integrada e abrangente de to
 Ler e tratar os dados para gerar análises relevantes e indicadores de negócio que possam contribuir para as tomadas de decisões e contribuir para melhoria de resultados
 
 ## Dados
-O banco de dados do ERP da empresa é um sistema PostgreSQL em um servidor nuvem. Além disso, a empresa utiliza um CRM da Salesforce e um sistema de contabilidade da ContaAzul. Foram disponibilizadas 14 cópias das principais tabelas do ERP da Discorama.
+O banco de dados do ERP da empresa é um sistema PostgreSQL em um servidor nuvem. Além disso, a empresa utiliza um CRM da Salesforce e um sistema de contabilidade da ContaAzul. Foram disponibilizadas 14 cópias das principais tabelas do ERP da FilmeFrame.
