@@ -1,4 +1,4 @@
-# EM CONSTRUÇÃO: PROJETO LOCADORA FILMFRAME (Empresa Fictícia)
+# PROJETO LOCADORA FILMFRAME (Empresa Fictícia)
 
 ## Introdução:
 A FilmFrame é uma loja de DVDs e mídias físicas que utiliza um ERP para o controle dos seus pedidos, funcionários, clientes, lojas e inventário, além de informações detalhadas sobre cada mídia, como atores e categorias dos filmes. Hoje a empresa possui cerca de 600 clientes e fatura aproximadamente 2000 dólares por dia. Seus clientes estão distribuídos em diversas cidades ao longo de vários países. A principal fonte de receita é a locação de DVDs.
